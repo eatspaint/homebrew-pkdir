@@ -1,9 +1,9 @@
 class Pkdir < Formula
   desc ""
-  homepage ""
+  homepage "https://github.com/eatspaint/pkdir"
   url "https://github.com/eatspaint/pkdir/archive/1.0.2.tar.gz"
   version "1.0.2"
-  sha256 "b49ba1e18815b920c4f37505c5b4dfd186a251467acb6e97e4907b2c3f8c6a2e"
+  sha256 ""
 
 
   def install
